@@ -1,0 +1,60 @@
+.App {
+  padding-top: 36px;
+  text-align: center;
+  
+}
+.Home {
+  background-color:rgba(142, 36, 228, 0.425);
+}
+
+.SearchForm-Wrapper {
+  display: flex;
+  justify-content: center;
+ 
+
+}
+
+.MovieList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.MovieList-Item {
+  margin-bottom: 24px;
+  width: 48%;
+ 
+
+}
+
+
+
+
+ .image {
+  /* width: 150px; 
+  height: 150px;
+  text-align: center; */
+  /* flex: 1; */
+
+
+
+} 
+
+.card-image {
+
+  width: 50%;
+  height: 50%;
+  
+ 
+}
+
+.card{
+ 
+  align-items: center;
+}
+
+.Menu{
+  background-color:  Mediumturquoise;
+ 
+}
